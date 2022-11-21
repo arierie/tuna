@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Tuna</string>
+    <string name="play_a_note">play a note</string>
+    <string name="request_permission_message">We need microphone access to recognize notes</string>
+    <string name="grant_permission">grant permission</string>
+</resources>
